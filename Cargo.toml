@@ -1,10 +1,13 @@
 [package]
+rust-version = "1.70"
+readme = "README.md"
 name = "spreadsheet-plr-bridge"
 version = "0.1.0"
 edition = "2021"
 description = "Bridge between spreadsheet-engine cells and groovemesh-plr voice leading — the spreadsheet moment for AI music"
 license = "MIT"
 repository = "https://github.com/SuperInstance/spreadsheet-plr-bridge"
+documentation = "https://docs.rs/spreadsheet-plr-bridge"
 keywords = ["spreadsheet", "voice-leading", "plr", "bridge", "music"]
 categories = ["algorithms", "data-structures", "mathematics"]
 
