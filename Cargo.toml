@@ -1,0 +1,11 @@
+[package]
+name = "spreadsheet-plr-bridge"
+version = "0.1.0"
+edition = "2021"
+description = "Bridge between spreadsheet-engine cells and groovemesh-plr voice leading — the spreadsheet moment for AI music"
+license = "MIT"
+repository = "https://github.com/SuperInstance/spreadsheet-plr-bridge"
+keywords = ["spreadsheet", "voice-leading", "plr", "bridge", "music"]
+categories = ["algorithms", "data-structures", "mathematics"]
+
+[dependencies]
